@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="15cfcb37-ebb5-4352-b6b4-268e57d524a2" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,9 +34,19 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/amand/Documents/GitHub/flor005.github.io/labo1/PersonalHomepageAssignment",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\amand\Documents\GitHub\flor005.github.io\labo1\PersonalHomepageAssignment" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -43,6 +56,7 @@
       <option name="presentableId" value="Default" />
       <updated>1680471115116</updated>
       <workItem from="1680471116356" duration="265000" />
+      <workItem from="1680767714339" duration="971000" />
     </task>
     <servers />
   </component>
